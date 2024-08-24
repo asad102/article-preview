@@ -716,15 +716,6 @@ video {
   line-height: 1rem;
 }
 
-.text-base {
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
-
-.text-\[15px\] {
-  font-size: 15px;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -739,10 +730,6 @@ video {
 
 .leading-7 {
   line-height: 1.75rem;
-}
-
-.leading-6 {
-  line-height: 1.5rem;
 }
 
 .tracking-tight {
